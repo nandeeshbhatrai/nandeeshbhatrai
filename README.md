@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 👨‍💻 All of my projects are available at [[projects.html]]([projects.html])
+- 👨‍💻 All of my projects are available at ([projects.html](https://nandeeshbhatrai.github.io/projects.html))
 
 - 📝 I regularly answer on [math.stackexchange.com/users/806601/nandeesh-bhatrai](math.stackexchange.com/users/806601/nandeesh-bhatrai)
 
