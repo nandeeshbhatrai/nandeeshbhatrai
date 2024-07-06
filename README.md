@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **official.nandeeshbhatrai@gmail.com**
 
-- 📄 Know about my experiences [nandeeshbhatrai.github.io](nandeeshbhatrai.github.io)
+- 📄 Know about my experiences [nandeesh-bhatrai-portfolio.vercel.app](https://nandeesh-bhatrai-portfolio.vercel.app/)
 
 - ⚡ Me fact **I think I'm pretty good at chess♟️**
 
