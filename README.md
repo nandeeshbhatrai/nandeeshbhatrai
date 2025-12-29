@@ -1,43 +1,131 @@
-<h1 align="center">Hi 👋, My name is Nandeesh Bhatrai</h1>
-<h3 align="center">A CSE student at IIT Goa. Crafting Code with Passion | Embracing Open Source | Ready for Collaborative Adventures - From India.</h3>
+<!-- Anime Background -->
+<img 
+  src="https://images5.alphacoders.com/137/thumb-1920-1372162.jpeg"
+  style="
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 0.045;
+    z-index: -1;
+    pointer-events: none;
+  "
+/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nandeeshbhatrai&label=Profile%20views&color=0e75b6&style=flat" alt="nandeeshbhatrai" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nandeeshbhatrai" alt="nandeeshbhatrai" /></a> </p>
+# ⚔️ Nandeesh Bhatrai ⚔️  
+### 「 Fourth-Year CSE @ IIT Goa | Engineer of Systems, Models & Strategy 」
 
-- 🔭 I’m currently working on [Machine Learning Projects]([to be updated])
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="420"/>
 
-- 🌱 I’m currently learning **Machine Learning with Python and DSA**
+</div>
 
-- 👯 I’m looking to collaborate on **open source projects**
+---
 
-- 👨‍💻 All of my projects are available at ([projects.html](https://nandeeshbhatrai.github.io/projects.html))
+## 🧠 Origin Story
+> *“Not all engineers build apps.  
+Some build systems. Some build intelligence.  
+I build both.”*
 
-- 📝 I regularly answer on [math.stackexchange.com/users/806601/nandeesh-bhatrai](math.stackexchange.com/users/806601/nandeesh-bhatrai)
+I’m **Nandeesh**, a fourth-year Computer Science undergraduate at **IIT Goa**, driven by a fascination for **how complex systems behave**, whether that system is a **cloud infrastructure**, a **neural network**, or a **competitive programming problem under time pressure**.
 
-- 💬 Ask me about **Python, C++, JavaScript and git**
+From automating **Google Cloud’s internal infrastructure** to predicting **macroeconomic trends using news sentiment**, my journey blends **engineering rigor**, **mathematical thinking**, and **strategic problem-solving**.
 
-- 📫 How to reach me **official.nandeeshbhatrai@gmail.com**
+---
 
-- 📄 Know about my experiences [nandeeshbhatrai.github.io](nandeeshbhatrai.github.io)
-- 📄 Know about my experiences [nandeesh-bhatrai-portfolio.vercel.app](https://nandeesh-bhatrai-portfolio.vercel.app/)
+## ⚡ Power Stats
+Role: Software Engineer | ML Engineer | Systems Thinker  
+Current Arc: Google Intern → Researcher → Industry  
+Graduation: 2026  
+Location: India 🇮🇳  
 
-- ⚡ Me fact **I think I'm pretty good at chess♟️**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/nandeesh3839" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nandeesh3839" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nandeesh bhatrai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nandeesh bhatrai" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19877454" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19877454" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/nandeesh_rocks" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nandeesh_rocks" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@ninad_bhatrai1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ninad_bhatrai1" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/nandeesh.bhatrai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nandeesh.bhatrai" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nandeesh_bhatrai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nandeesh_bhatrai/" height="30" width="40" /></a>
-</p>
+## 🧩 Specializations (Skill Tree)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+### 🧪 Core Abilities
+- Machine Learning / Deep Learning / NLP
+- Algorithms, DSA & Competitive Programming
+- Backend & Systems Engineering
+- Cloud-scale Automation
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nandeeshbhatrai&show_icons=true&locale=en&layout=compact" alt="nandeeshbhatrai" /></p>
+### 🛠️ Weapons of Choice
+- Languages: Golang, Python, C++, JavaScript, Bash
+- ML Stack: PyTorch, TensorFlow, HuggingFace, Scikit-learn
+- Infra & Tools: Linux, Git, Docker, Django, OpenCV
+- Mindset: Precision > Flash, Systems > Scripts
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nandeeshbhatrai&show_icons=true&locale=en" alt="nandeeshbhatrai" /></p>
+---
+
+## 🏆 Major Arcs & Achievements
+
+⚔️ **Software Engineering Intern @ Google**  
+Google Cloud Backup & Disaster Recovery  
+- Designed automated cleanup pipelines for stale backup associations  
+- Improved storage efficiency, auditability & scalability at cloud scale  
+- Production-grade Golang, reliability-first design  
+
+📈 **Researcher — News Sentiment Analysis for Economic Predictions**  
+- 10+ years of financial news, transformer + IR ensemble  
+- Achieved 85%+ sentiment accuracy  
+- ~8% improvement over baseline economic forecasts  
+
+🧠 **Brain MRI Tumor Classification (Explainable AI)**  
+- ResNet50 + Grad-CAM  
+- 93%+ accuracy with interpretable heatmaps  
+
+📊 **Quantitative Trading System**  
+- Multi-strategy backtester (Momentum, RSI, Mean Reversion)  
+
+🐍 **Reinforcement Learning Snake Bot**  
+- DQN with screen capture & keyboard simulation  
+
+---
+
+## 🏅 Battle Records
+- ICPC Amritapuri & Chennai Regionalist (2025)
+- Codeforces Expert (1685)
+- LeetCode Knight (2019 | 500+ problems)
+- CodeChef 3★
+- Inter-IIT Chess Player | College Gold Medalist
+- JEE Advanced AIR 3839
+
+---
+
+## 🧭 Leadership Arc
+
+👑 **General Secretary, Technical Affairs — IIT Goa**  
+- Led all technical clubs & fests  
+- Built institute-wide technical initiatives  
+
+🧑‍🏫 **Coding & IT Clubs Secretary**  
+- Mentored 50+ students  
+- Organized competitive programming contests  
+
+---
+
+## 🌌 Philosophy
+> “Good code runs.  
+Great code scales.  
+Exceptional code teaches you something new.”
+
+I care deeply about:
+- Correctness before cleverness
+- Explainability over black boxes
+- Systems that don’t break under pressure
+
+---
+
+## 🔗 Summon Me
+Portfolio: https://nandeesh-bhatrai-portfolio.vercel.app  
+LinkedIn: https://linkedin.com/in/nandeeshbhatrai  
+GitHub: https://github.com/nandeeshbhatrai  
+Codeforces: https://codeforces.com/profile/Nandeesh.Bhatrai  
+Email: official.nandeeshbhatrai@gmail.com  
+
+---
+
+⭐ If you like clean systems, interpretable ML, or high-signal code — welcome aboard.
