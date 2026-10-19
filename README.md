@@ -17,7 +17,7 @@
 <div align="center">
 
 # ⚔️ Nandeesh Bhatrai ⚔️  
-### 「 Fourth-Year CSE @ IIT Goa | Engineer of Systems, Models & Strategy 」
+### 「 BTECH CSE @ IIT Goa | Engineer of Systems, Models & Strategy 」
 
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="420"/>
 
